@@ -1,7 +1,7 @@
 # Whatsapp Bee Movie
 The script of Bee Movie to send in whatsapp chat.
 
-copy here:
+copy in code.
 <!--
 async function enviarScript(scriptText){
 	const lines = scriptText.split(/[\n\t]+/).map(line => line.trim()).filter(line => line);
