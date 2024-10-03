@@ -1,8 +1,8 @@
 # Whatsapp Bee Movie
 The script of Bee Movie to send in whatsapp chat.
 
-/*
-
+copy here:
+<!--
 async function enviarScript(scriptText){
 	const lines = scriptText.split(/[\n\t]+/).map(line => line.trim()).filter(line => line);
 	main = document.querySelector("#main"),
@@ -1398,5 +1398,4 @@ I'm not making a major life decision during a production number!
 All right. Take ten, everybody. Wrap it up, guys.
 I had virtually no rehearsal for that.
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
-
-*/
+-->
